@@ -1,0 +1,4 @@
+- Repaso (git)
+- Despliegue con github pages
+- Gitflow 
+- HTML (si llegamos)
